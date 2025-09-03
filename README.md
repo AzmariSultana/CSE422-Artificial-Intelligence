@@ -8,7 +8,7 @@ https://www.youtube.com/playlist?list=PLtQXTSdoymQd068ZzJ1LTj0yL6AuOzKeE
 # SWG's Recordings
 Gradient Descent + Linear Regression 
 
-https://youtu.be/oQQ9IOwG3UQ?si=iYfkSccxrO9ev20C
+# https://youtu.be/oQQ9IOwG3UQ?si=iYfkSccxrO9ev20C
 
 Logistic Regression and Neural Network Perceptrons
 
