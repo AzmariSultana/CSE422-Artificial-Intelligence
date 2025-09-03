@@ -5,7 +5,7 @@ Concepts of artificial intelligence, rationality, intelligent agents and their s
 # TRZ's Recordings
 https://www.youtube.com/playlist?list=PLtQXTSdoymQd068ZzJ1LTj0yL6AuOzKeE
 
-# (SWG)
+# SWG's Recordings
 Gradient Descent + Linear Regression 
 
 https://youtu.be/oQQ9IOwG3UQ?si=iYfkSccxrO9ev20C
