@@ -9,6 +9,7 @@ https://www.youtube.com/playlist?list=PLtQXTSdoymQd068ZzJ1LTj0yL6AuOzKeE
 Gradient Descent + Linear Regression 
 
 https://youtu.be/oQQ9IOwG3UQ?si=iYfkSccxrO9ev20C
+
 Logistic Regression and Neural Network Perceptrons
 
 https://youtu.be/tIiw2wVvtJQ?si=CO4CB1nRVkjgY8zn
