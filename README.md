@@ -7,3 +7,6 @@ https://www.youtube.com/playlist?list=PLtQXTSdoymQd068ZzJ1LTj0yL6AuOzKeE
 
 # Gradient Descent + Linear Regression (SWG)
 https://youtu.be/oQQ9IOwG3UQ?si=iYfkSccxrO9ev20C
+
+# Neural Networking (RZR)
+https://youtu.be/9627J_yMac4?si=V5TdZOLpQCwOMrRg
