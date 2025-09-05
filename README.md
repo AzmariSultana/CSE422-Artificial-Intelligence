@@ -6,6 +6,10 @@ Concepts of artificial intelligence, rationality, intelligent agents and their s
 ```text
 https://www.youtube.com/playlist?list=PLtQXTSdoymQd068ZzJ1LTj0yL6AuOzKeE
 ```
+# Naive Bayes (RRH)
+```text
+https://youtu.be/Ydw4Yg_fQGg?si=l992xpFJRv03JpOw
+```
 # SWG's Recordings
 Gradient Descent + Linear Regression 
 ```text
